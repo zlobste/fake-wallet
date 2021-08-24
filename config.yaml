@@ -1,0 +1,4 @@
+addr: :80
+log: debug
+db_url: postgres://postgres:postgres@fake-wallet-db/fake-wallet?sslmode=disable
+jwt_secret_key: SECRET
